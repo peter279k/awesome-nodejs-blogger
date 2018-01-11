@@ -8,7 +8,5 @@ The collections of the good Node.js blog posts.
 
 # RESTful API tutorial
 
-- [Build Node.js RESTful APIs in 10 Minutes
-
-](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
+- [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
 - [Modern unit testing](https://buddy.works/guides/how-automate-nodejs-unit-tests-with-mocha-chai)
